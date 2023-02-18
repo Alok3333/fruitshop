@@ -1,0 +1,17 @@
+.App {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 6%;
+}
+
+.needs-validation {
+    width: 30%;
+}
+
+.App-grid {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 6%;
+}
